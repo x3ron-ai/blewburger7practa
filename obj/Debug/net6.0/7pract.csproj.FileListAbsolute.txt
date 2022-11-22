@@ -1,0 +1,15 @@
+C:\Users\shavuh1n\source\repos\7pract\7pract\bin\Debug\net6.0\7pract.exe
+C:\Users\shavuh1n\source\repos\7pract\7pract\bin\Debug\net6.0\7pract.deps.json
+C:\Users\shavuh1n\source\repos\7pract\7pract\bin\Debug\net6.0\7pract.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\7pract\7pract\bin\Debug\net6.0\7pract.dll
+C:\Users\shavuh1n\source\repos\7pract\7pract\bin\Debug\net6.0\7pract.pdb
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.dll
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\refint\7pract.dll
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.pdb
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\7pract.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\7pract\7pract\obj\Debug\net6.0\ref\7pract.dll
